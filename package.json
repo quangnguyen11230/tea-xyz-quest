@@ -1,0 +1,12 @@
+{
+  "name": "@hyzas/tea-xyz-quest",
+  "version": "1.0.0",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@hyzas",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quangnguyen11230/tea-xyz-quest.git"
+  },
+  "license": "ISC"
+}
